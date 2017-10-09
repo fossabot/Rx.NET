@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FRx.NET.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FRx.NET?ref=badge_shield)
+
 Reactive Extensions
 ======================
 
@@ -58,3 +60,7 @@ Contributing Code
 Before submitting a feature or substantial code contribution please  discuss it with the team and ensure it follows the product roadmap. Note that all code submissions will be rigorously reviewed and tested by the Rx Team, and only those that meet an extremely high bar for both quality and design/roadmap appropriateness will be merged into the source. 
 
 You will need to submit a  Contributor License Agreement form before submitting your pull request. This needs to only be done once for any Microsoft OSS project. Download the Contributor License Agreement (CLA). Please fill in, sign, scan and email it to <msopentech-cla@microsoft.com>. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FRx.NET.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FRx.NET?ref=badge_large)
